@@ -1,6 +1,5 @@
 import './App.css';
 import MyNavBar from "./Componets/MyNavBar/MyNavBar";
-import Container from "react-bootstrap/Container";
 import imgDroneFPV from "./img/droneFPV.jpg"
 import {Tab, Tabs} from "react-bootstrap";
 import 'bootstrap/dist/css/bootstrap.min.css';
