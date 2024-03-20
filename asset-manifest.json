@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.81fc6f95.css",
-    "main.js": "/static/js/main.9c2f1325.js",
+    "main.js": "/static/js/main.ee547dbe.js",
     "static/media/droneFPV.jpg": "/static/media/droneFPV.173586a17f6f17e0efd3.jpg",
     "static/media/logo.jpg": "/static/media/logo.486a454b584fd7c68462.jpg",
     "index.html": "/index.html",
     "main.81fc6f95.css.map": "/static/css/main.81fc6f95.css.map",
-    "main.9c2f1325.js.map": "/static/js/main.9c2f1325.js.map"
+    "main.ee547dbe.js.map": "/static/js/main.ee547dbe.js.map"
   },
   "entrypoints": [
     "static/css/main.81fc6f95.css",
-    "static/js/main.9c2f1325.js"
+    "static/js/main.ee547dbe.js"
   ]
 }
